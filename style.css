@@ -7,6 +7,14 @@ body {
   background: #fae1dd;
 }
 
+.title {
+  font-size: 30px;
+  font-family: "Brush Script MT", cursive;
+  color: red;
+  text-shadow: 1px 1px 3px pink;
+}
+
+
 .container {
   position: relative;
 }
