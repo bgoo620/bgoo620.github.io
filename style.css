@@ -7,11 +7,13 @@ body {
   background: #fae1dd;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
 .title {
-  font-size: 30px;
-  font-family: "Brush Script MT", cursive;
-  color: red;
-  text-shadow: 1px 1px 3px pink;
+  font-size: 25px;
+  font-family: 'Dancing Script', cursive;
+  color: #d63384; /* Soft pink/purple for a romantic feel */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 
